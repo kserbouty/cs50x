@@ -34,12 +34,12 @@ The main focus of this project is to learn how computers work "underneath the ho
 
 ## Installation
 
-### Requirements
+### Requirements :
 
 - C with GCC installed on your machine.
 - Visual Studio Code with the [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) extension.
 
-### Building with CMake Tools
+### Building with CMake Tools :
 
 1. Select **src/CMakeLists.txt** when asked if you want to access all the executables at once.
 2. On the **CMake** toolbar, go to **Project Outline** and click on **Build All Projects**.
