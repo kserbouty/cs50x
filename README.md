@@ -1,4 +1,4 @@
-<h1 align="center">CS50x 2025</h1>
+<h1 align="center">CS50x</h1>
 
 <p align="center">
     <br>
@@ -70,11 +70,11 @@ Configuration available on **Project Status** from the **CMake** toolbar.
 
 ## Documentation
 
-### Resources :
+### Harvard University
 
-- [This is CS50 : CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2025/)
+- [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2025/)
 
-### External Links :
+### External Links
 
 - [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 - [CMake Reference Documentation](https://cmake.org/cmake/help/v3.31/)
