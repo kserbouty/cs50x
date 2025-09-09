@@ -19,18 +19,16 @@
         <img src="https://img.shields.io/badge/cmake-3-064F8C?style=flat&logo=cmake"
         alt="cmake-3" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-181717?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-blue?style=flat&logo=github"
         alt="mit-license" /></a>
     <a href="https://github.com/kserbouty/cs50x">
-        <img src="https://img.shields.io/badge/status-complete-darkblue?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/status-complete-blue?style=flat&logo=github"
         alt="status-complete" /></a>
 </p>
 
 ## About
 
-Introduction to computer science by [David J. Malan](https://cs.harvard.edu/malan/), professor at Harvard University. These lectures are made available for free, for students who want to learn how to solve problems with programming.
-
-The main focus of this project is to learn how computers work "underneath the hood", by understanding memory management and practicing algorithms directly through the C language.
+Introduction to computer science by [David J. Malan](https://cs.harvard.edu/malan/), professor at Harvard University.
 
 ## Installation
 
