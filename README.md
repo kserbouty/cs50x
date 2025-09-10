@@ -19,10 +19,10 @@
         <img src="https://img.shields.io/badge/cmake-3-064F8C?style=flat&logo=cmake"
         alt="cmake-3" /></a>
     <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-mit-blue?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/license-mit-lightblue?style=flat&logo=github"
         alt="mit-license" /></a>
     <a href="https://github.com/kserbouty/cs50x">
-        <img src="https://img.shields.io/badge/status-complete-blue?style=flat&logo=github"
+        <img src="https://img.shields.io/badge/status-complete-lightblue?style=flat&logo=github"
         alt="status-complete" /></a>
 </p>
 
@@ -32,15 +32,15 @@ Introduction to computer science by [David J. Malan](https://cs.harvard.edu/mala
 
 ## Installation
 
-### Requirements :
+### Requirements
 
 - C with GCC installed on your machine.
 - Visual Studio Code with the [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) extension.
 
-### Building with CMake Tools :
+### Building with CMake Tools
 
 1. Select **src/CMakeLists.txt** when asked if you want to access all the executables at once.
-2. On the **CMake** toolbar, go to **Project Outline** and click on **Build All Projects**.
+2. On the **CMake extension** toolbar, go to **Project Outline** and click on **Build All Projects**.
 
 ## Usage
 
@@ -64,7 +64,7 @@ hello, world
 
 ## Configuration
 
-Configuration available on **Project Status** from the **CMake** toolbar.
+Configuration available on **Project Status** from the **CMake extension** toolbar.
 
 ## Documentation
 
