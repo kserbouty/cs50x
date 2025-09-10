@@ -5,7 +5,8 @@
 *.c                 text diff=cpp
 
 # Documentation
-*.md                text diff=markdown
+*.html              text diff=html
+*.md                text diff=markdown             
 *.png               binary
 
 # Configuration
