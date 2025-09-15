@@ -1,4 +1,4 @@
-<h1 align="center">CS50x</h1>
+<h1 align="center">CS50x 2025</h1>
 
 <p align="center">
     <br>
@@ -30,31 +30,19 @@
 
 Introduction to computer science by [David J. Malan](https://cs.harvard.edu/malan/), professor at Harvard University.
 
-## Installation
-
-### Replacing GitHub Codespaces with VS Code
-
-1. Install the [GCC compiler](https://code.visualstudio.com/docs/languages/cpp#_set-up-your-c-environment) on your machine.
-2. Install [Visual Studio Code](https://code.visualstudio.com/) with [C/C++](https://code.visualstudio.com/docs/languages/cpp#_install-the-extension) and [CMake Tools](https://code.visualstudio.com/docs/cpp/cmake-linux) extensions.
-3. Clone or download this repository on your system.
-4. Select **File > Open Folder...** and launch the cs50x directory.
-5. Choose **GCC** and **src/CMakeLists.txt** when asked in the [command palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette).
-6. Open the CMake Tools [view](https://code.visualstudio.com/docs/getstarted/userinterface#_tabs) to build C programs from the **Project Outline**.
-
-## Configuration
-
-Configuration available on **Project Status** within the CMake Tools extension.
+These lectures help to understand how computers work under the hood, with [pointers](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Pointers) and memory addresses.
 
 ## Documentation
 
-### Harvard University
+### Harvard
 
-- [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2025/)
+- [CS50 2025 (Harvard)](https://cs50.harvard.edu/x/2025/)
+- [CS50x 2025 Lectures (YouTube)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
 
 ### External Links
 
-- [CMake: Reference Documentation](https://cmake.org/cmake/help/v3.31/)
-- [GNU: The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+- [CMake Reference Documentation (CMake)](https://cmake.org/cmake/help/v3.31/)
+- [The GNU C Reference Manual (GNU)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 ## Roadmap
 
@@ -71,4 +59,4 @@ All notable changes to this project will be documented in the [CHANGELOG](./CHAN
 
 ## License
 
-This project is released under [the MIT License](./LICENSE.md).
+This project is released under the [MIT License](./LICENSE.md).
