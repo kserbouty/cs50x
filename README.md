@@ -30,17 +30,11 @@
 
 Introduction to computer science by [David J. Malan](https://cs.harvard.edu/malan/), professor at Harvard University.
 
-These lectures help to understand how computers work under the hood, with [pointers](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Pointers) and memory addresses.
+These lectures help to understand how computers work under the hood, from pointers to memory addresses.
 
-## Documentation
+## Support
 
-### Harvard
-
-- [CS50 2025 (Harvard)](https://cs50.harvard.edu/x/2025/)
-- [CS50x 2025 Lectures (YouTube)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
-
-### External Links
-
+- [CS50x 2025 (Harvard)](https://cs50.harvard.edu/x/2025/)
 - [CMake Reference Documentation (CMake)](https://cmake.org/cmake/help/v3.31/)
 - [The GNU C Reference Manual (GNU)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
