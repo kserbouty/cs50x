@@ -1,15 +1,15 @@
 # Default
 *                   text=auto
 
-# Source
+# Scripts
 *.c                 text diff=cpp
-
-# Documentation
-*.html              text diff=html
-*.md                text diff=markdown             
-*.png               binary
 
 # Configuration
 *.txt               text
 .gitattributes      text
 .gitignore          text
+
+# Documentation
+*.html              text diff=html
+*.md                text diff=markdown             
+*.png               binary

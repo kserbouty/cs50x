@@ -32,7 +32,7 @@ Introduction to computer science by [David J. Malan](https://cs.harvard.edu/mala
 
 These lectures help to understand how computers work under the hood, from pointers to memory addresses.
 
-## Support
+## Resources
 
 - [CS50x 2025 (Harvard)](https://cs50.harvard.edu/x/2025/)
 - [CMake Reference Documentation (CMake)](https://cmake.org/cmake/help/v3.31/)
