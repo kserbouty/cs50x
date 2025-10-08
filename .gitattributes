@@ -1,14 +1,14 @@
-# Default
+### Default ###
 *                   text=auto
 
-# Scripts
+### Scripts ###
 *.c                 text diff=cpp
 
-# Configuration
+### Configuration ###
 *.txt               text
 .gitattributes      text
 .gitignore          text
 
-# Documentation
+### Documentation ###
 *.md                text diff=markdown             
 *.png               binary
